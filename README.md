@@ -101,11 +101,6 @@
   <img src="https://profile-counter.glitch.me/iftekhar-mahmud/count.svg?"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mahmudtarif&theme=dark" alt="Latest Medium posts" />
-</div>
 
 ###
 
