@@ -104,14 +104,14 @@
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@mahmudtarif&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mahmudtarif&theme=dark" alt="Latest Medium posts" />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/DesFasust">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=DesFasust&count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/31akiulwv525ffcgjyhqmtz7r65u">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31akiulwv525ffcgjyhqmtz7r65u&count=5&unique=true" alt="Spotify Recently Played" />
   </a>
 </div>
 
