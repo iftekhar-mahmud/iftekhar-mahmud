@@ -1,8 +1,9 @@
 # 💫 About Me:
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd1eHE1eTM0ZzJvcjRtZHV1ZGZqc2N2ZW94bnFiOWhwZTBlZ3hrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif"  />
+
 👋 Hi, I'm Iftekhar Mahmud<br><br>🎓 Computer Science graduate from United International University, Dhaka<br>💻 Passionate about data-driven problem solving using Python, machine learning, and clean engineering practices<br>🌱 Exploring energy-efficient AI systems and sustainable computing<br>📄 Published researcher in crop price forecasting and multimodal emotion recognition<br>🌐 Portfolio: https://iftekhar-mahmud.github.io/<br><br>I enjoy working on meaningful projects — whether it's building ML pipelines, writing research papers, or sharing insights through articles.<br>I value simplicity, clarity, and solutions that make a difference.
 
-###
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWd1eHE1eTM0ZzJvcjRtZHV1ZGZqc2N2ZW94bnFiOWhwZTBlZ3hrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif"  />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iftekhar-tarif) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mahmudtarif) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@IftekharTarif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mahmudtarif@gmail.com) 
